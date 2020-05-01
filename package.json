@@ -1,13 +1,16 @@
 {
-  "name": "nodeboilerplate",
-  "version": "0.0.0",
-  "description": "Boilerplating node server.",
+  "name": "csvtest",
+  "version": "0.0.1",
+  "description": "Testing csvUpload and parsing.",
   "main": "server.js",
-  "repository": "https://github.com/MoralesJonathan/NodeBoilerplate",
+  "repository": "https://github.com/MoralesJonathan/csvTest",
   "author": "Jonathan Morales <jonmorazav@yahoo.com>",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "express": "^4.17.1"
+    "csv-parser": "^2.3.2",
+    "csv-string": "^4.0.1",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.3",
