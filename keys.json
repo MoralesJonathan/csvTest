@@ -1,0 +1,4 @@
+{
+    session: 'super secret session password',
+    mongoPassword: 'super secret mongo password'
+}

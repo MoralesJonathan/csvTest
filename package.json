@@ -1,0 +1,16 @@
+{
+  "name": "nodeboilerplate",
+  "version": "0.0.0",
+  "description": "Boilerplating node server.",
+  "main": "server.js",
+  "repository": "https://github.com/MoralesJonathan/NodeBoilerplate",
+  "author": "Jonathan Morales <jonmorazav@yahoo.com>",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3",
+    "morgan": "^1.10.0"
+  }
+}
